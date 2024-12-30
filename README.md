@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **font-end development**
 
-- 👯 I’m looking to collaborate on **collaborate on it company to show my skill**
+- 👯 I’m looking to collaborate on **it company to show my skill**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP**
 
