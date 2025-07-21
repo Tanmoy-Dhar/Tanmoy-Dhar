@@ -53,15 +53,27 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanmoy-dhar&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmoy-dhar&theme=tokyonight&hide_border=true" />
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tanmoy-dhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com/?user=tanmoy-dhar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tanmoy-dhar&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoy-dhar&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 
 </div>
 
